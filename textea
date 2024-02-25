@@ -1,0 +1,6 @@
+# https://tea.xyz/textea
+---
+version: 1.0.0
+codeOwners:
+  - '0x616fd4Ed7777bb4d286b33047bC831caE5169871'
+quorum: 1
